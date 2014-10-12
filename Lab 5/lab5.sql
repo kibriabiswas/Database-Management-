@@ -1,15 +1,5 @@
 ﻿----------------------------------------------------------------------------------------
--- Postgres create, load, and query script for CAP2.
---
--- SQL statements for the CAP2 database
--- 
--- Derived from the CAP examples in _Database Principles, Programming, and Performance_, 
---   Second Edition by Patrick O'Neil and Elizabeth O'Neil
--- 
--- Modified a few times by Alan G. Labouseur
--- 
--- Tested on Postgres 9.3.2    (For earlier versions, you may need
---   to remove the "if exists" clause from the DROP TABLE commands.)
+
 ----------------------------------------------------------------------------------------
 
 -- Connect to your Postgres server and set the active database to CAP2.  Then . . .
